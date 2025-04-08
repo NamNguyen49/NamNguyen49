@@ -33,19 +33,8 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-- ✅ Clean code with consistent formatting using **ESLint** + **Prettier**
-- ✅ Modular folder structure following best practices
-- ✅ CI/CD setup with **GitHub Actions**
-- ✅ 📊 95% Unit Test Coverage with **Jest**
-- ✅ Well-structured README with badges & tech stack
-- ✅ `.env.example` for environment setup
-- ✅ Followed **DRY**, **SOLID**, and **KISS** principles
-- ✅ Responsive UI using **HTML5**, **CSS3**, and **Bootstrap/Tailwind**
-- ✅ Version control with Git & GitHub
-![CI/CD](https://img.shields.io/github/actions/workflow/status/namnguyendev/my-project/ci.yml?label=CI/CD)
-![Prettier](https://img.shields.io/badge/style-prettier-ff69b4.svg?logo=Prettier)
-![ESLint](https://img.shields.io/badge/lint-eslint-4B32C3.svg?logo=eslint)
-![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)
+
+
 <br>
 <div align=center>
   <a href="#" title="Namnguyendev">
@@ -57,7 +46,25 @@
 </div>
 
 <br>
+<h2 align="center">📦 Project Highlights & Code Quality 📦</h2>
 
+<p align="center">
+  <img alt="CI/CD" src="https://img.shields.io/github/actions/workflow/status/namnguyendev/my-project/ci.yml?label=CI/CD" />
+  <img alt="Prettier" src="https://img.shields.io/badge/style-prettier-ff69b4.svg?logo=Prettier" />
+  <img alt="ESLint" src="https://img.shields.io/badge/lint-eslint-4B32C3.svg?logo=eslint" />
+  <img alt="Coverage" src="https://img.shields.io/badge/coverage-95%25-brightgreen" />
+</p>
+
+- ✅ Clean code with consistent formatting using **ESLint** + **Prettier**
+- ✅ Modular folder structure following best practices
+- ✅ CI/CD setup with **GitHub Actions**
+- ✅ 📊 95% Unit Test Coverage with **Jest**
+- ✅ Well-structured README with badges & tech stack
+- ✅ `.env.example` for environment setup
+- ✅ Followed **DRY**, **SOLID**, and **KISS** principles
+- ✅ Responsive UI using **HTML5**, **CSS3**, and **Bootstrap/Tailwind**
+- ✅ Version control with Git & GitHub
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
