@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
 
 <p align="center">
   <img src="svg/github-stats.png" alt="namnguyendev-stats" width="800" />
