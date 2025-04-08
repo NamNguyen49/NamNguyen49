@@ -1,9 +1,7 @@
 <a href="#" target="_blank">
   <img src="svg/namnguyendev.svg" width="1200" alt="namnguyendev-official" />
 </a>
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
   <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25" />
@@ -19,22 +17,16 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=MicrosoftSQLServer&logoColor=CC2927" height="25" />
   <img src="https://img.shields.io/badge/-282C34?logo=C&logoColor=A8B9CC" height="25" />
 </p>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
 <p align="center">
   <img src="svg/github-stats.png" alt="namnguyendev-stats" width="800" />
 </p>
-
 <h2 align="center">📦 Project Highlights & Code Quality 📦</h2>
-
 <p align="center">
   <img alt="CI/CD" src="https://img.shields.io/github/actions/workflow/status/namnguyendev/my-project/ci.yml?label=CI/CD" />
   <img alt="Prettier" src="https://img.shields.io/badge/style-prettier-ff69b4.svg?logo=Prettier" />
   <img alt="ESLint" src="https://img.shields.io/badge/lint-eslint-4B32C3.svg?logo=eslint" />
   <img alt="Coverage" src="https://img.shields.io/badge/coverage-95%25-brightgreen" />
 </p>
-
 <ul>
   <li>✅ Clean code with consistent formatting using <strong>ESLint</strong> + <strong>Prettier</strong></li>
   <li>✅ Modular folder structure following best practices</li>
